@@ -1,7 +1,7 @@
 ## Problem Statement
-**Problem:** It's hard to find someone that's fallen overboard in the ocean.
-**Barrier:** Ocean currents can move a person miles from where they fell.
-**Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.
+**Problem:** It's hard to find someone that's fallen overboard in the ocean.  
+**Barrier:** Ocean currents can move a person miles from where they fell.  
+**Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.  
 
 ## References
 1.  [Cruise Ship MOB Stats](cruisejunkie.com)
