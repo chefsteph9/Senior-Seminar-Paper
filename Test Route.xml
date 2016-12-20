@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ugcs-Transfer>
+
+	<Version>
+		<major v="2"/>
+		<minor v="9"/>
+		<build v="1230"/>
+		<component v="DATABASE"/>
+	</Version>
+
+	<Route>
+		<modificationUuid v="8f796064-a32f-4b3c-aa1f-2cb6cc58a3af"/>
+		<name v="Test Route"/>
+		<creationTime v="2016-11-28T08:47:52.525-05:00"/>
+		<altitudeType v="AGL"/>
+		<trajectoryType v="STRAIGHT"/>
+		<safeAltitude v="50.0"/>
+		<maxAltitude v="120.0"/>
+		<initialSpeed v="0.0"/>
+		<maxSpeed v="0.0"/>
+		<homeLocationSource v="FIRST_WAYPOINT"/>
+		<checkAerodromeNfz v="true"/>
+		<checkCustomNfz v="true"/>
+		<vehicleProfile>
+			<platform>
+				<code v="Emulator"/>
+			</platform>
+		</vehicleProfile>
+		<segments>
+			<modificationUuid v="fdb761c9-3fb5-4bd2-ae99-f497b7a7aef0"/>
+			<order v="0"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116010274629335" v4="-1.4844906236201112" v6="59.52333823964" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="69db5eb8-58c4-4abe-a1a1-6b6a2c6d24c0"/>
+			<order v="1"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116136818130107" v4="-1.4844816327544874" v6="50.0" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="dfd1e340-9764-4b22-a8e9-1cace1ba9ddc"/>
+			<order v="2"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116184870074552" v4="-1.4844756018065492" v6="50.0" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="3eb8598b-bace-4fc7-953d-d7c9bae5ae83"/>
+			<order v="3"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116326292199048" v4="-1.4844632649140328" v6="50.0" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="a598eacf-37e0-41fb-abc3-19d43699e88e"/>
+			<order v="4"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116321170726393" v4="-1.4844549111024508" v6="50.0" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="61fc41f0-df77-4409-86a7-d80d13c2ec94"/>
+			<order v="5"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116123056371006" v4="-1.4844555240401143" v6="50.0" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<segments>
+			<modificationUuid v="d67f42ed-161f-43ec-a22d-0a8f49bb1b07"/>
+			<order v="6"/>
+			<algorithmClassName v="com.ugcs.ucs.service.routing.impl.WaypointAlgorithm"/>
+			<figure>
+				<type v="POINT"/>
+				<ugcs-List name="points" type="FigurePoint" v0="id" v1="version" v2="order" v3="latitude" v4="longitude" v5="wgs84Altitude" v6="aglAltitude" v7="altitudeType">
+					<o v2="0" v3="0.6116010156260621" v4="-1.4844669059432525" v6="58.495530031621456" v7="AGL"/>
+				</ugcs-List>
+			</figure>
+			<ugcs-List name="parameterValues" type="ParameterValue" v0="id" v1="version" v2="name" v3="value">
+				<o v2="speed" v3="5"/>
+				<o v2="wpTurnType" v3="SPLINE"/>
+				<o v2="avoidObstacles" v3="True"/>
+				<o v2="avoidTerrain" v3="True"/>
+			</ugcs-List>
+		</segments>
+		<ugcs-List name="failsafes" type="Failsafe" v0="id" v1="version" v2="reason" v3="action">
+			<o v2="GPS_LOST" v3="WAIT"/>
+			<o v2="LOW_BATTERY" v3="LAND"/>
+			<o v2="RC_LOST" v3="GO_HOME"/>
+			<o v2="DATALINK_LOST" v3="GO_HOME"/>
+		</ugcs-List>
+	</Route>
+</ugcs-Transfer>
