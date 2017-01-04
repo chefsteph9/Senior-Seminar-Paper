@@ -4,7 +4,7 @@
 **Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.  
 
 ## References
-1.  [Cruise Ship MOB Stats](cruisejunkie.com)
+1.  [Cruise Ship MOB Stats](http://www.cruisejunkie.com/Overboard.html)
 * [Cruise Vessel Safety and Security Act 2010](https://www.uscg.mil/hq/cg2/cgis/Docs/HR3360CruiseVesselSecurityandSafetyActof2010.pdf)
 * [Cruise MOB fatality statistics](http://www.cruiseserver.net/travelpage/other/man_overboard.asp)
 * [UGCS Information](https://www.ugcs.com/en)
