@@ -3,7 +3,7 @@
 **Barrier:** Ocean currents can move a person miles from where they fell overboard.  
 **Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.
 
-*Slightly revised 1-4-16
+*Slightly revised 1-4-16  
 **Problem**
 It is difficult to track where a person that has fallen overboard in the ocean might be.
 
