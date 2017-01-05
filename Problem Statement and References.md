@@ -1,7 +1,17 @@
 ## Problem Statement
 **Problem:** It's hard to find someone that's fallen overboard in the ocean.  
 **Barrier:** Ocean currents can move a person miles from where they fell overboard.  
-**Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.  
+**Solution:** Create software that can predict where a person will be based on OSCAR and time (or time range) that they fell overboard.
+
+*Slightly revised 1-4-16
+**Problem**
+It is difficult to track where a person that has fallen overboard in the ocean might be.
+
+**Barriers**
+The exact time the person fell is often unknown, and ocean currents move the person from their original location to unknown places.
+
+**Solution**
+Create a program that can figure out a person's likely location given the time range of when they fell overboard, using the ship's location history and ocean current data gathered from NASA's OSCAR program (**O**cean **S**urface **C**urrent **A**nalyses **R**ealtime) and can create a route file that can be uploaded to Universal Ground Control Software to guide Seach and Rescue drones to the location.
 
 ## References
 1.  [Cruise Ship MOB Stats](http://www.cruisejunkie.com/Overboard.html)
