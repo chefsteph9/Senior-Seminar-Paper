@@ -22,4 +22,4 @@ Create a program that can figure out a person's likely location given the time r
 * [More OSCAR Info](http://www.esr.org/oscar_index.html)
 * [Ocean Current Visualization](https://earth.nullschool.net/)
 * [USCS SAROPS](https://www.uscg.mil/acquisITION/international/sarops.asp)    
-* [Extracting location information from Google](https://shkspr.mobi/blog/2014/04/extracting-your-own-location-information-from-google-the-hard-way/)
+* [Extracting location information from Google](https://shkspr.mobi/blog/2015/09/get-your-google-location-history-the-hard-way-again/)
