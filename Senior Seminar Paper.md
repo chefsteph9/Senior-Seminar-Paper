@@ -1,6 +1,6 @@
 # Tracking Areas Searched While Accounting for Ocean Currents
 ## Abstract
-Abstract gets filled in last.
+This paper is a project proposal, proposing a stand-alone desktop application that creates a U|g|CS mission file that can be used to search the area a person who has fallen overboard is likely to be after accounting for ocean currents, given the time of the incident and the number of drones available to search. The application will use Google location history data for location information and NASA OSCAR data for ocean current information. 
 
 ## Introduction
 ### Problem Statement
@@ -23,8 +23,8 @@ Every year, about 20 people fall overboard while on a cruise. When a person fall
 ![](Images\MobSurvivalRate.png)
 
 One reason for the low survival rate is the difficulty of finding a person who has fallen overboard because of several factors:
-1. Even if a person is immediately noticed falling overboard, it can take more than a mile for the ship to turn around. At that distance it is very easy to lose sight of the person at that distance [reference]
-* Once a person has been lost sight of, they are rarely found because a cruise ship has no rescue aircraft, they use lifeboats to search for the missing person.
+1. Even if a person is immediately noticed falling overboard, it can take more than a mile for the ship to turn around.[reference] At that distance it is very easy to lose sight of the person at that distance [reference]
+* Once a person has been lost sight of, they are rarely found because a cruise ship has no rescue aircraft, they use lifeboats to search for the missing person, which have a limited range of vision in a vast ocean.
 
 ## Background
 
@@ -37,7 +37,7 @@ The end goal is for their to be an efficient way to use drones for man overboard
 #### Universal Ground Control Software
 Talk about U|g|CS here.
 
-Universal Ground Control Software is a tool that allows you to control multiple drones. It has many features which can be found here [source]. I will only talk about the features that will be useful for our end goals, such as:
+Universal Ground Control Software is a tool that allows you to control multiple drones. It has many features which can be found here [source]. Key features that will be useful for our end goals, include:
 1. The ability to remotely control multiple drones.
 * Drones can be set to fly predefined missions, or can be manually controlled via joystick.
 * Ability to view video feeds from drones.
@@ -112,7 +112,8 @@ The major tasks and milestones for the project are as follows:
 ### List of required software/hardware for project and evaluation
 To complete the project and it's evaluation the hardware and software that is required is:
 
-* U|g|CS One: $60
+* U|g|CS Open: Free.
+* Parrot drone: CS Dept. has one already.
 
 ### Description of proposed timeline (Hours per major task)
 The major tasks are expected to take this long:
@@ -145,12 +146,18 @@ Different colors signify different persons.
 1. The program must be able to download relevant google location history automatically.
 * The program must be able to download OSCAR data automatically.
 * The program must be able to write a valid U|g|CS mission file.
-* The program will output a correct mission file within 1 minute of user entering necessary data.
+* The program will output a correct mission file within 10 seconds of necessary data being downloaded.
 
 
 ### Description of the specific measure, target value, and testing plan that will be used to assess attainment for each target result
 
+1. **The program must be able to download relevant google location history automatically:** Pass/fail.
+* **The program must be able to download OSCAR data automatically:** Pass/fail.
+* **The program must be able to write a valid U|g|CS mission file:** Have the parrot drone fly a route created by the program.
+* **The program will output a correct mission file within 10 seconds of necessary data being downloaded:** Pass/fail.
+
 ### Description of the method of evaluation the success of the project.
+In order to consider the project a success, all target outcomes must be met.
 
 ## Conclusion
 Restatement of problem statement, project goals, and summary of proposed solution and expected outcomes/deliverables
