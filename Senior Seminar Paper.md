@@ -98,7 +98,7 @@ Additional limitations/assumptions
 * Person may swim up to 6 MPH (Michael Phelps top speed in water).
 
 A mockup of the screen is shown below
-![mockup](Images/GuiMockUp.png)
+![mockup](Images/GuiMockUp.PNG)
 
 ### Delineation of major tasks/milestones
 The major tasks and milestones for the project are as follows:
