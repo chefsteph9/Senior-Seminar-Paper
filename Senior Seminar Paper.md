@@ -74,7 +74,7 @@ If you allow Google to track your location and store your location history, you 
 
 #### NASA Ocean Current Data
 NASA tracks ocean currents on a macro scale through the use of satellites. New data comes in every 5 days and can be downloaded from an ftp server. Several visualization programs have been made.
-![](Images\OscarVisualization.png)
+![](Images/OscarVisualization.png)
 
 
 
