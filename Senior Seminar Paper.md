@@ -18,9 +18,9 @@ Create a program that can figure out a person's likely location given the time r
 ### Frequency of MOB Situations and MOB Incident Fatality Rate
 Every year, about 20 people fall overboard while on a cruise. When a person falls overboard on a cruise ship, their chance of survival is about 20% [reference].
 
-![](Images\MobIncidents.PNG)
+![](Images/MobIncidents.png)
 
-![](Images\MobSurvivalRate.PNG)
+![](Images/MobSurvivalRate.png)
 
 One reason for the low survival rate is the difficulty of finding a person who has fallen overboard because of several factors:
 1. Even if a person is immediately noticed falling overboard, it can take more than a mile for the ship to turn around.[reference] At that distance it is very easy to lose sight of the person at that distance [reference]
